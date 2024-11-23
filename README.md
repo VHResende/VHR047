@@ -9,6 +9,6 @@ Definições:
 - Frequência (F): Quantidade de compras.
 - Valor (V): Gasto total.
 
-[streamlit-app.RFV_atualizado-2024-11-23-09-11-11.webm](https://github.com/user-attachments/assets/d9d5675b-c4b5-487c-9cd5-563df5b574fc)
+[streamlit-app.RFV.webm](https://github.com/user-attachments/assets/fd38e3ce-d77b-4081-8b5f-b5c50650d878)
 
 ## Link para a aplicação:
