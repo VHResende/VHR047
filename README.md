@@ -12,3 +12,4 @@ Definições:
 [streamlit-app.RFV.webm](https://github.com/user-attachments/assets/fd38e3ce-d77b-4081-8b5f-b5c50650d878)
 
 ## Link para a aplicação:
+https://vhr047-kaecewjzkpawkuaxtmdte2.streamlit.app/
